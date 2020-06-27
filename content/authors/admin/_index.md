@@ -63,7 +63,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-[]
+- Researchers
+- Visitors
 ---
 
 Michael T. Connelly is a Ph.D. candidate in the Cnidarian Immunity Laboratory at the University of Miami's Rosenstiel School of Marine and Atmospheric Science.
