@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Michael T. Connelly
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate in Marine Biology and Ecology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Miami
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am passionate about researching coral reef microbial ecology and improving reef ecosystem management in human-impacted coastal seas. My graduate research will aim to discover coral innate immune mechanisms used to interact with endosymbiotic bacteria communities in Pocillopora damicornis, a widely distributed coral species. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Marine microbial ecology and symbiosis
+- Comparative immunology
+- Coral reef conservation and marine ecosystem restoration
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD candidate in Marine Biology and Ecology
+    institution: Rosenstiel School of Marine and Atmospheric Science
+    year: 2016 - present
+  - course: BSc in Marine Science and Biology
+    institution: University of Miami
+    year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +44,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/MikeT_Connelly
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=OjTalQQAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/michaeltconnelly
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Michael T. Connelly is a Ph.D. candidate in the Cnidarian Immunity Laboratory () of Dr. Nikki Traylor-Knowles at the University of Miami Rosenstiel School of Marine and Atmospheric Science.
